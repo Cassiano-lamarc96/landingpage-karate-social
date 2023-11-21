@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+
+section{
+  min-height: 600px;
+  max-height: 800px;
+}
+
+#aboutus{
+  background-image: url('assets/tatame-alunos-costa-juliana-marcio-rua.jpeg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center; 
+  opacity: 0.3;  
+}
